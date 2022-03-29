@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Welcome to... `"Club'sNettyStyle"`
+> `Play` : League of Legends : WildRift 
 
 You can use the [editor on GitHub](https://github.com/Dechwongasara10/1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
